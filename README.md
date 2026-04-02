@@ -39,8 +39,8 @@ This is a frontend Finance Dashboard built using React and Tailwind CSS. It allo
 
 ### Light Mode
 
-![Light Mode](assets/dashboard-light.png)
+![Light Mode](src/assets/dashboard-light.png)
 
 ### Dark Mode
 
-![Dark Mode](assets/dashboard-dark.png)
+![Dark Mode](src/assets/dashboard-dark.png)
