@@ -35,3 +35,12 @@ This is a frontend Finance Dashboard built using React and Tailwind CSS. It allo
 * This project uses mock data
 * No backend is implemented
 * Focus is on UI and frontend logic
+## Screenshots
+
+### Light Mode
+
+![Light Mode](assets/dashboard-light.png)
+
+### Dark Mode
+
+![Dark Mode](assets/dashboard-dark.png)
